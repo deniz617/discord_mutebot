@@ -8,6 +8,6 @@ discord.js@12.3.1
 ## Parts to edit & Commands
 You only have to edit DISCORD_TOKEN and REQUIRED_ROLE.
 #### Commands
-There is no prefix for the commands.
+There is **no prefix** for the commands.</br>
 1q = Mutes all users that are connected to the voice chat of the user that wrote the command.</br>
 2w = Unmutes all users that are connected to the voice chat of the user that wrote the command.</br>
